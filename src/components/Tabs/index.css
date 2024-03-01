@@ -1,0 +1,21 @@
+.tab-item {
+  padding: 0;
+}
+
+.tab-btn {
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  background-color: transparent;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  margin: 20px;
+  margin-top: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-tab {
+  background-color: #db1c48;
+  color: #fff;
+}
